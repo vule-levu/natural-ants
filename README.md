@@ -1,5 +1,6 @@
-# My ant swarm
+# My Ant Swarm
 This application simulates a natural process where a swarm of ants searches for food, deposits pheromones along the way, and then returns the food to their nest.
+Use your left mouse click to add a new food source and right click to create an obstacle.
 
 # Getting Started with Create React App
 
