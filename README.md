@@ -1,3 +1,6 @@
+# My ant swarm
+This application simulates a natural process where a swarm of ants searches for food, deposits pheromones along the way, and then returns the food to their nest.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
